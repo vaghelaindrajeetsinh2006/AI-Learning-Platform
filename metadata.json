@@ -1,0 +1,6 @@
+{
+  "name": "LearnAI",
+  "description": "LearnAI is a modern educational platform concept that combines structured learning with responsible AI-assisted study experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
